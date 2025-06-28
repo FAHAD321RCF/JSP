@@ -1,5 +1,5 @@
 
-// appleprrice
+/ appleprrice
 var apple = 300;
 var orange = 400;
 var total = (apple+orange);
